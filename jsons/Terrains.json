@@ -1,0 +1,21 @@
+[
+
+  {
+
+  "name": "Mountain",
+		"type": "Land",
+    "production": 2,
+		"impassable": true,
+		"defenceBonus": 0.25,
+		"RGB": [102, 102, 102],
+    "techRequired": "Chemistry",
+		"uniques": ["Rough terrain",
+            "Has an elevation of [2] for visibility calculations",
+            "Occurs in chains at high elevations",
+            "Units ending their turn on this terrain take [50] damage",
+            "Always Fertility [-2] for Map Generation",
+            "Considered [Undesirable] when determining start locations"]
+
+  },
+
+]
